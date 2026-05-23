@@ -1,7 +1,7 @@
 # 📊 Power BI Dashboards
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F2C811&center=true&vCenter=true&width=600&lines=Dashboards+analíticos+com+Power+BI;DAX+%7C+Linguagem+M+%7C+ETL;Transformando+dados+em+decisões" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F2C811&height=120&section=header&text=Power%20BI%20Dashboards&fontSize=36&fontColor=1A3C5E&fontAlignY=55&desc=DAX%20%7C%20Linguagem%20M%20%7C%20ETL%20%7C%20Transformando%20dados%20em%20decisões&descAlignY=80&descSize=14&descColor=1A3C5E" alt="Power BI Dashboards" />
 </div>
 
 ---
